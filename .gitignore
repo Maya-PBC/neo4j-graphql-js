@@ -63,7 +63,7 @@ typings/
 
 # FIXME - currently including the dist/ folder and pushing the build to git.
 # fixes issue with vercel installing yarn dependencies in parallel
-# dist/
+ dist/
 
 node-version
 neo4j-version
